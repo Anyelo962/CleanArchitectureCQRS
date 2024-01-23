@@ -1,0 +1,11 @@
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.deps.json
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.dll
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.dll
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/refint/CleanArchitecture.Domain.dll
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.pdb
+/Users/anyelovinzen/RiderProjects/CursoCleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/ref/CleanArchitecture.Domain.dll
